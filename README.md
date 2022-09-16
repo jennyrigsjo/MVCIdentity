@@ -40,3 +40,8 @@ https://github.com/jennyrigsjo/MVCDatabase/blob/MVCDatabase2/Databases%20Assignm
 ## Assignment 3 instructions:
 
 https://github.com/jennyrigsjo/MVCDatabase/blob/MVCDatabase3/Databases%20Assignment%203.pdf
+
+# MVCIdentity
+
+## Assignment instructions:
+https://github.com/jennyrigsjo/MVCIdentity/blob/master/ASP.NET%20Identity%20Assignment.pdf
